@@ -26,6 +26,8 @@ public class Response {
 
     private RoomDTO room;
 
+    private BookingDTO booking;
+
     private List<UserDTO> userList;
     
     private List<RoomDTO> roomList;
